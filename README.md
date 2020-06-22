@@ -8,6 +8,9 @@ User registration system built using Redux, Nodemailer and NodeJS.<br />
 Front end deployed on Netlify and Backend deployed on Heroku.<br />
 We use MongoDB for database management.<br />
 
+Steps1
+Remember to intall the dependencies with npm or yarn (see below) and to create an ".env" file with the env credentials.
+
 ## Available Scripts
 
 In the project directory, you can run:
