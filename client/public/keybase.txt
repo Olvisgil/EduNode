@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/olvis_experio
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://edunode.netlify.app
+  * I am olvis_experio (https://keybase.io/olvis_experio) on keybase.
+  * I have a public key ASD3s3oCdcAPtNyDu5HTiuww_pjd1E_ltV2hUiZklAF2FAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f7b37a0275c00fb4dc83bb91d38aec30fe98ddd44fe5b55da1522664940176140a",
+      "host": "keybase.io",
+      "kid": "0120f7b37a0275c00fb4dc83bb91d38aec30fe98ddd44fe5b55da1522664940176140a",
+      "uid": "a4e0eb56ee7fd5cc9e6610a8d444a019",
+      "username": "olvis_experio"
+    },
+    "merkle_root": {
+      "ctime": 1592779962,
+      "hash": "fb5a2e2022f13aed5a7e1f70504ac08e96665217a9bc0e120a903da28e2899333c33442c933d7673ee52cbaea1b68c53a877136e19b50b98b000bb851d826436",
+      "hash_meta": "a36224bec12eed63227a51c6c628ff3d9c31169483586fdc6bf6897d47b7a9e7",
+      "seqno": 16737087
+    },
+    "service": {
+      "entropy": "NLHhQVASFChFl0/nSS2xH9Ku",
+      "hostname": "edunode.netlify.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1592779986,
+  "expire_in": 504576000,
+  "prev": "693021d5285005573ed2bc48b1b009253d2201921f3dda8b4028a8d6eaf3d910",
+  "seqno": 70,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg97N6AnXAD7Tcg7uR04rsMP6Y3dRP5bVdoVImZJQBdhQKp3BheWxvYWTESpcCRsQgaTAh1ShQBVc+0rxIsbAJJT0iAZIfPdqLQCio1urz2RDEIIQWHFcjwuD0GaxRgNxSEz91o8K+IL384RZihNRCZBe4AgHCo3NpZ8RADPPZK8nNyHxNAZQxxZQV81X0GrtBie9HJWSPsNOZjTnQ3Xgo7IsIY5nwVxj2j3KPQ5TfKl7JPigN1YhMjedUC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGuc2JrMTC0pmecoEUtrxSi27Onb7xS8u1jkn8/xAexIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/olvis_experio
+
+==================================================================
