@@ -7,7 +7,7 @@ Community map implementation with MapboxGL.<br />
 User registration system built using Redux, Nodemailer and NodeJS.<br />
 Front end deployed on Netlify and Backend deployed on Heroku.<br />
 We use MongoDB for database management.<br />
-Remember to intall the dependencies with npm or yarn (see below) and to create an ".env" file with the env credentials.<br />
+Remember to install the dependencies with npm or yarn (see below) and to create an ".env" file with the enviroment credentials.<br />
 
 ## Available Scripts
 
