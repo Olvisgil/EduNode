@@ -1,0 +1,14 @@
+.home {
+    color: white;
+}
+
+.meetup {
+    height: 50%;
+    width: 50%; 
+}
+
+.links {
+    justify-content: space-between;
+    color: white;
+
+}
