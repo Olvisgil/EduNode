@@ -1,12 +1,12 @@
-# EduNode
+## EduNode
 
-Technical details
+## Technical details
 
-The front-end of the platform was built using ReactJS, Material UI and React-boostrap.
-Community map implementation with MapboxGL.
-User registration system built using Redux, Nodemailer and NodeJS.
-Front end deployed on Netlify and Backend deployed on Heroku.
-We use MongoDB for database management.
+# The front-end of the platform was built using ReactJS, Material UI and React-boostrap.
+# Community map implementation with MapboxGL.
+# User registration system built using Redux, Nodemailer and NodeJS.
+# Front end deployed on Netlify and Backend deployed on Heroku.
+# We use MongoDB for database management.
 
 ## Available Scripts
 
