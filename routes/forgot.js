@@ -32,8 +32,8 @@ async function main(request) {
        secure: true, // true for 465, false for other ports
        auth: {
          type: "login",
-         user: "edunodeapp@gmail.com",
-         pass: "M3O!B9@c9i$VlDB" 
+         user: "process.env.EMAIL",
+         pass: "process.env.PASS" 
        }
       });
       
